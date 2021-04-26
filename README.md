@@ -1,46 +1,75 @@
-# Getting Started with Create React App
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="_README.md/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <h3 align="center">Youtube Navbar Replication 2021</h3>
 
-## Available Scripts
+  <p align="center">
+    Complete navbar with responsiviness.
+    <br />
+    <br />
+  </p>
+</p>
 
-In the project directory, you can run:
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#prerequisites">Prerequisites</a></li>
+    <li><a href="#running">Running</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-### `yarn build`
+<p align="center">
+  <img src="_README.md/App.gif">
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2021 YouTube Navbar replication
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Prerequisites
+It is need to install some tools, Click on the link to see the ones I used to run with Windows O.S.
+<br/>
+[Link](https://github.com/MestreALMO/React-Requires-To-Run-Windows-)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+## Running
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### First time
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+When running for the first time we need to run the following code in a terminal inside the project folder, so the project download the library that it uses
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```
+yarn
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Second or more times
 
-## Learn More
+In a terminal inside the project folder use the code:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+yarn start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+With that the app will be running!!!
+
+
+## Contact
+
+My Name: André Lusegardis Miranda de Oliveira
+
+  * lusegardis@gmail.com
+
+  * [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-lusegardis/)
+
+  * [GitHub](https://github.com/MestreALMO)
