@@ -7,7 +7,6 @@ const Homepage = () => {
     <>
       <Content>
         <Navbar />
-        <h1>Homepage</h1>
       </Content>
     </>
   );
