@@ -1,9 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="_README.md/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  <img src="_README.md/logo.png" alt="Logo" width="80" height="80">
 
   <h3 align="center">Youtube Navbar Replication 2021</h3>
 
